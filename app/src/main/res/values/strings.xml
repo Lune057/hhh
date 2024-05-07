@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">天天2048</string>
+    <string name="hint_username">账号</string>
+    <string name="hint_password">密码</string>
+    <string name="login" >登录</string>
+    <string name="forgot_password">忘记密码</string>
+    <string name="register" />
+
+
+</resources>

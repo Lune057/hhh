@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="editTextPassword" type="id" />
+    <item name="editTextUsername" type="id" />
+    <item name="et_username" type="id" />
+    <item name="et_password" type="id" />
+    <item name="btn_login" type="id" />
+    <item name="btn_LeaderBoard" type="id" />
+    <item name="tv_username" type="id" />
+    <item name="user_list" type="id" />
+    <item name="btnBoard" type="id" />
+    <item name="listView" type="id" />
+    <item name="textViewOtherInfo" type="id" />
+    <item name="leaderboardListView" type="id" />
+    <item name="tvUsername" type="id" />
+
+    <!--    <item name="highscore" type="id" />-->
+<!--    <item name="highscore_title" type="id" />-->
+</resources>
